@@ -1,7 +1,7 @@
 
 # Calculadora
 
-Calculadora feita para treinar os conceitos aprendidos.
+Calculadora feita para treinar os conceitos aprendidos
 
 
 ## Stack utilizada
