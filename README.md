@@ -12,12 +12,6 @@ HTML, CSS e Javascript
 
 ![calculadora](https://i.imgur.com/2cF02o0.png)
 
-## Rodando localmente
+## Link do Projeto
 
-Clone o projeto
-
-```bash
-  git clone https://github.com/minotti21/calculadora.git
-```
-
-Entre no diretório e abra o arquivo HTML :)
+https://minotti21.github.io/calculadora/
