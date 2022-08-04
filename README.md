@@ -17,7 +17,7 @@ HTML, CSS e Javascript
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/minotti21/calculadora.git
 ```
 
 Entre no diretório e abra o arquivo HTML :)
